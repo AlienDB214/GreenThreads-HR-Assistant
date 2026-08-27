@@ -1,0 +1,89 @@
+Applicant_ID,Current_Stage,Offer_Extended,Offer_Accepted,Decline_Reason,Offered_Rate,Denver_Market_Rate,Days_To_Screen,Days_Screen_To_Interview,Days_Interview_To_Offer,Days_Offer_To_Decision,Days_Since_Last_Contact
+APP-3058,Interviewed,N,,,17.5,19.75,2,6,,,12
+APP-3051,Interviewed,N,,,17.5,19.75,2,5,,,21
+APP-3041,Offer declined,Y,N,Pay below expectations,17.5,19.75,3,4,3,8,8
+APP-3100,Applied,N,,,17.5,19.75,,,,,27
+APP-3079,Screened,N,,,17.5,19.75,1,,,,16
+APP-3066,Screened,N,,,17.5,19.75,2,,,,14
+APP-3116,Applied,N,,,17.5,19.75,,,,,17
+APP-3090,Applied,N,,,17.5,19.75,,,,,3
+APP-3092,Applied,N,,,17.5,19.75,,,,,42
+APP-3098,Applied,N,,,17.5,19.75,,,,,13
+APP-3065,Screened,N,,,17.5,19.75,4,,,,36
+APP-3072,Screened,N,,,17.5,19.75,1,,,,5
+APP-3112,Applied,N,,,17.5,19.75,,,,,27
+APP-3091,Applied,N,,,17.5,19.75,,,,,22
+APP-3114,Applied,N,,,17.5,19.75,,,,,14
+APP-3064,Screened,N,,,17.5,19.75,2,,,,38
+APP-3060,Interviewed,N,,,17.5,19.75,4,3,,,3
+APP-3094,Applied,N,,,17.5,19.75,,,,,18
+APP-3045,Offer declined,Y,N,Pay below expectations,17.5,19.75,3,4,3,6,23
+APP-3118,Applied,N,,,17.5,19.75,,,,,19
+APP-3104,Applied,N,,,17.5,19.75,,,,,27
+APP-3073,Screened,N,,,17.5,19.75,1,,,,12
+APP-3057,Interviewed,N,,,17.5,19.75,0,3,,,37
+APP-3083,Screened,N,,,17.5,19.75,0,,,,32
+APP-3081,Screened,N,,,17.5,19.75,0,,,,20
+APP-3102,Applied,N,,,17.5,19.75,,,,,2
+APP-3059,Interviewed,N,,,17.5,19.75,4,5,,,14
+APP-3110,Applied,N,,,17.5,19.75,,,,,19
+APP-3054,Interviewed,N,,,17.5,19.75,2,3,,,5
+APP-3089,Applied,N,,,17.5,19.75,,,,,27
+APP-3067,Screened,N,,,17.5,19.75,1,,,,3
+APP-3093,Applied,N,,,17.5,19.75,,,,,29
+APP-3088,Applied,N,,,17.5,19.75,,,,,11
+APP-3115,Applied,N,,,17.5,19.75,,,,,26
+APP-3097,Applied,N,,,17.5,19.75,,,,,29
+APP-3040,Offer declined,Y,N,Pay below expectations,17.5,19.75,1,3,6,9,0
+APP-3076,Screened,N,,,17.5,19.75,1,,,,37
+APP-3050,Interviewed,N,,,17.5,19.75,2,8,,,11
+APP-3106,Applied,N,,,17.5,19.75,,,,,24
+APP-3121,Applied,N,,,17.5,19.75,,,,,15
+APP-3038,Offer declined,Y,N,Pay below expectations,17.5,19.75,4,5,7,4,10
+APP-3101,Applied,N,,,17.5,19.75,,,,,25
+APP-3037,Offer declined,Y,N,Start date too far out,17.5,19.75,1,6,6,4,21
+APP-3099,Applied,N,,,17.5,19.75,,,,,33
+APP-3086,Screened,N,,,17.5,19.75,2,,,,37
+APP-3068,Screened,N,,,17.5,19.75,4,,,,0
+APP-3039,Offer declined,Y,N,Start date too far out,17.5,19.75,1,8,7,9,0
+APP-3103,Applied,N,,,17.5,19.75,,,,,2
+APP-3061,Screened,N,,,17.5,19.75,2,,,,18
+APP-3117,Applied,N,,,17.5,19.75,,,,,28
+APP-3113,Applied,N,,,17.5,19.75,,,,,33
+APP-3042,Offer declined,Y,N,Pay below expectations,17.5,19.75,2,5,2,4,21
+APP-3095,Applied,N,,,17.5,19.75,,,,,19
+APP-3035,Offer accepted,Y,Y,,17.5,19.75,3,3,6,8,0
+APP-3080,Screened,N,,,17.5,19.75,4,,,,17
+APP-3055,Interviewed,N,,,17.5,19.75,2,5,,,13
+APP-3053,Interviewed,N,,,17.5,19.75,2,5,,,35
+APP-3052,Interviewed,N,,,17.5,19.75,1,4,,,23
+APP-3062,Screened,N,,,17.5,19.75,1,,,,3
+APP-3111,Applied,N,,,17.5,19.75,,,,,9
+APP-3078,Screened,N,,,17.5,19.75,1,,,,30
+APP-3044,Offer declined,Y,N,Accepted another offer,17.5,19.75,3,4,3,3,15
+APP-3056,Interviewed,N,,,17.5,19.75,1,8,,,0
+APP-3049,Interviewed,N,,,17.5,19.75,2,6,,,27
+APP-3071,Screened,N,,,17.5,19.75,3,,,,7
+APP-3082,Screened,N,,,17.5,19.75,4,,,,0
+APP-3109,Applied,N,,,17.5,19.75,,,,,23
+APP-3036,Offer accepted,Y,Y,,17.5,19.75,2,8,4,6,0
+APP-3043,Offer declined,Y,N,Start date too far out,17.5,19.75,2,8,5,7,17
+APP-3063,Screened,N,,,17.5,19.75,1,,,,5
+APP-3084,Screened,N,,,17.5,19.75,1,,,,25
+APP-3077,Screened,N,,,17.5,19.75,2,,,,24
+APP-3096,Applied,N,,,17.5,19.75,,,,,32
+APP-3105,Applied,N,,,17.5,19.75,,,,,11
+APP-3046,Interviewed,N,,,17.5,19.75,0,9,,,23
+APP-3108,Applied,N,,,17.5,19.75,,,,,11
+APP-3120,Applied,N,,,17.5,19.75,,,,,10
+APP-3075,Screened,N,,,17.5,19.75,1,,,,34
+APP-3119,Applied,N,,,17.5,19.75,,,,,37
+APP-3074,Screened,N,,,17.5,19.75,0,,,,43
+APP-3085,Screened,N,,,17.5,19.75,1,,,,6
+APP-3070,Screened,N,,,17.5,19.75,3,,,,9
+APP-3048,Interviewed,N,,,17.5,19.75,1,7,,,2
+APP-3047,Interviewed,N,,,17.5,19.75,2,3,,,0
+APP-3107,Applied,N,,,17.5,19.75,,,,,37
+APP-3122,Applied,N,,,17.5,19.75,,,,,14
+APP-3087,Applied,N,,,17.5,19.75,,,,,4
+APP-3069,Screened,N,,,17.5,19.75,4,,,,7
