@@ -1,0 +1,9 @@
+SKU,Product_Name,Category,Material,Sustainability_Cert,Supplier,Supplier_Country,Lead_Time_Days,MOQ_Units,Wholesale_Cost,MSRP,Unit_Margin,Margin_Pct,Units_Per_Carton,In_Denver_Launch,Denver_Opening_Buy_Units,Opening_Buy_Cost,Opening_Buy_Retail_Value,Order_By_Date,Days_Until_Order_Deadline,Notes
+GT-TEE-01,Classic Tee,Tops,Organic cotton,GOTS,Delta Organics,India,45,500,14.25,38.00,23.75,0.625,24,Y,1600,22800.00,60800.00,2026-08-28,-11,
+GT-SHT-02,Active Shorts,Bottoms,Recycled polyester,GRS,Mekong Textile Co.,Vietnam,60,300,22.00,58.00,36.00,0.621,20,Y,1200,26400.00,69600.00,2026-08-13,-26,
+GT-JOG-03,Bamboo Joggers,Bottoms,Bamboo viscose,OEKO-TEX,Song Hong Apparel,Vietnam,65,250,30.00,78.00,48.00,0.615,16,Y,950,28500.00,74100.00,2026-08-08,-31,
+GT-HOD-04,EcoFleece Hoodie,Outerwear,Recycled fleece,GRS,Andes Knitworks,Colombia,30,200,38.00,98.00,60.00,0.612,12,Y,850,32300.00,83300.00,2026-09-12,4,
+GT-POL-05,Performance Polo,Tops,Recycled pique,GRS,Delta Organics,India,45,400,19.50,52.00,32.50,0.625,24,N,0,0.00,0.00,,,In GreenThreads catalog; stocked at other stores. Not in the Denver launch assortment.
+GT-TNK-06,Organic Tank Top,Tops,Organic cotton,GOTS,Delta Organics,India,40,500,11.00,30.00,19.00,0.633,30,N,0,0.00,0.00,,,In GreenThreads catalog; stocked at other stores. Not in the Denver launch assortment.
+GT-CHN-07,Slim Chino,Bottoms,Hemp-cotton blend,OEKO-TEX,Mekong Textile Co.,Vietnam,60,300,26.00,68.00,42.00,0.618,20,N,0,0.00,0.00,,,In GreenThreads catalog; stocked at other stores. Not in the Denver launch assortment.
+GT-JKT-08,Recycled Denim Jacket,Outerwear,Recycled denim,GRS,Andes Knitworks,Colombia,35,150,46.00,118.00,72.00,0.610,8,N,0,0.00,0.00,,,In GreenThreads catalog; stocked at other stores. Not in the Denver launch assortment.
