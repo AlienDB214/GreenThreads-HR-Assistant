@@ -1,15 +1,20 @@
-# GreenThreads HR — Denver Store #13 Staffing Assistant
+# Daira Beckum — AI-Fluent HR Analyst Portfolio
+### GreenThreads Denver Store #13 · AI.205, AI Integration in Business I
 
-**Author:** Daira Beckum
-**Course:** AI.205 — AI Integration in Business I
-**Assignment:** HW#4 — Custom Assistant Build
-**Platform:** Claude Projects (used with instructor approval in place of ChatGPT Projects)
+This repository contains my quarter's work analyzing the HR function for GreenThreads' Denver Store #13 launch—from scoping an AI opportunity through document and data analysis to building and testing a working AI assistant grounded in that work.
+
+**In this repository:**
+- **HW#1 — Functional Brief:** `[Homework_1.md]` — scoped the Quarterly Staffing Forecasting opportunity for HR
+- **HW#2 — Document Intelligence:** `[Homework_2.md]` — verified pay-policy and offer-letter findings against the Employee Handbook
+- **HW#3 — Data Intelligence:** `HW3_Analysis_Working_Sheet.xlsx` (individual tabs) — formula-driven pay-gap and funnel analysis
+- **HW#4 — Custom Assistant Build:** documented below in full, including live testing and a real governance failure caught and analyzed
+- **HW#5 — Executive Brief:** synthesizes all of the above into a single recommendation — [link to your HW5 Google Doc once posted]
 
 ---
 
 ## What This Assistant Does
 
-This is a configured AI assistant scoped to the HR function's data for the GreenThreads Denver Store #13 launch. It answers staffing, pay-gap, and hiring-funnel questions using only the data and documents I analyzed across HW#1–HW#3, and is built to refuse or flag rather than guess when a question falls outside what its files actually contain — even when refusing makes it less immediately useful.
+This is a configured AI assistant scoped to the HR function's data for the GreenThreads Denver Store #13 launch. It answers staffing, pay-gap, and hiring-funnel questions using only the data and documents I analyzed across HW#1–HW#3, and is built to refuse or flag rather than guess when a question falls outside what its files contain—even when refusing makes it less immediately useful.
 
 It is the same AI opportunity scoped in HW#1 (Quarterly Staffing Forecasting), now built as a working tool rather than a proposal.
 
