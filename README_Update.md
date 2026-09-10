@@ -8,7 +8,7 @@ This repository contains my quarter's work analyzing the HR function for GreenTh
 - **HW#2 — Document Intelligence:** `[Homework_2.md]` — verified pay-policy and offer-letter findings against the Employee Handbook
 - **HW#3 — Data Intelligence:** `HW3_Analysis_Working_Sheet.xlsx` (individual tabs) — formula-driven pay-gap and funnel analysis
 - **HW#4 — Custom Assistant Build:** documented below in full, including live testing and a real governance failure caught and analyzed
-- **HW#5 — Executive Brief:** synthesizes all of the above into a single recommendation — [link to your HW5 Google Doc once posted]
+- **HW#5 — Executive Brief:** synthesizes all of the above into a single recommendation — (https://docs.google.com/document/d/14nz4glR-W3HSED_pNeKnt0Sq2gvksu_0dZ-bXe0c-TY/edit?usp=sharing)
 
 ---
 
